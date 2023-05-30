@@ -1,0 +1,20 @@
+{
+  "languageCode": "fr",
+  "firstName": "John",
+  "lastName": "Doe",
+  "isAuthenticated": true,
+  "customerHasStandardPortfolio": true,
+  "customerIsConfirmed": true,
+  "isAdministrator": false,
+  "hasFamilyTreeEnabled": false,
+  "hasUrbaAccessEnabled": true,
+  "hasAccessCustomerPortfolio": true,
+  "hasBusinessFinderEnabled": false,
+  "customerCountry": "fr",
+  "isAuthenticatedOnBehalf": false,
+  "isAuthenticatedExternalCustomer": false,
+  "urbaCurrency": "EUR",
+  "requestTimeout": 115000,
+  "logoutUrl": null,
+  "authenticated": true
+}

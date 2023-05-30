@@ -1,0 +1,12 @@
+{
+  "name": "urba-web-app",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "mocks-server"
+  },
+  "private": true,
+  "dependencies": {
+    "@mocks-server/main": "^4.1.0",
+    "@types/node": "^16.18.25"
+  }
+}

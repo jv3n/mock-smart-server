@@ -1,0 +1,8 @@
+[
+  {
+    "id": "base",
+    "routes": [
+      "post-user-login:success"
+    ]
+  }
+]
